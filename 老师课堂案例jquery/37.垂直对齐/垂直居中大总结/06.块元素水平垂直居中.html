@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #wrap {
+            width: 500px;
+            height: 500px;
+            background: grey;
+
+            position: relative;
+        }
+        /*
+         元素的宽度与高度是否已知都可以使用
+        */
+        #inner{
+            position: absolute;
+            top:50%;
+            left: 50%;
+            /*过渡*/
+            transform: translate(-50%,-50%); /*百分比参照自身*/
+
+            background: greenyellow;
+        }
+    </style>
+</head>
+<body>
+<div id="wrap">
+    <!--提示框 多使用垂直水平居中  多跟催遮罩层一起使用-->
+    <div id="inner">
+        innerinnerinnerinner <br>
+        innerinnerinnerinner <br>
+        innerinnerinnerinner <br>
+        innerinnerinnerinner <br>
+
+    </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+
+        #wrap{
+            width: 300px;
+            height: 300px;
+            background: pink;
+
+            /*position: relative;*/
+        }
+        #inner{
+            background: yellowgreen;
+            float: left;
+            position: absolute;
+            position: fixed;
+            /*position: absolute;*/
+            /*top:50px;*/
+            /*left: 0;*/
+            /*bottom:0;*/
+            /*right: 0;*/
+
+        }
+        /*
+        通过子元素设置定位：
+            top:0;
+            left: 0;
+            bottom:0;
+            right: 0;
+            子元素宽度与高度 和 父元素一样大
+
+
+         子元素飘起来（float，position） ，元素宽度与高度由内容自动撑开
+
+        */
+    </style>
+</head>
+<body>
+
+<div id="wrap">
+    <div id="inner">inner</div>
+</div>
+
+</body>
+<script type="text/javascript">
+    window.onload = function () {
+        var box = document.getElementById('box');
+
+
+    }
+</script>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<!--制作模板-->
+	</head>
+	<body>
+		<div id="box"></div>
+		<script type="text/html" id="art01">
+			<%if(sex){%>
+			<h2><%=name%></h2>
+			<ul>
+				<%for(var i = 0;i<song.length;i++){%>
+				<li><%=song[i]%></li>
+				<%}%>
+			</ul>
+			<%}%>
+		</script>
+		<script src="js/template-native.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			var data = {
+				"name":"周杰伦",
+				"age":40,
+				"song":["双节棍","菊花台","忍者"],
+				"sex":false
+			};
+				//关联模板和数据函数
+			var dataStr	= template('art01',data);
+			//生成数据的字符串
+			console.log(dataStr);
+			$('#box').html(dataStr);
+		</script>
+	</body>
+</html>

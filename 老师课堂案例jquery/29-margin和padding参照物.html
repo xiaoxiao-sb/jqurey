@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .box{
+            width: 400px;
+            height: 300px;
+            background: pink;
+            margin: 0 auto;
+        }
+        .inner{
+            /*200px*/
+            width: 50%;
+            /*200px*/
+            height: 50%;
+            /*  margin和padding设置百分比是  参照物为父级元素的宽*/
+            /*20px 200  400*/
+            margin:10%;
+            /*20px 200  400*/
+            padding: 10%;
+            background: yellowgreen;
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+    <div class="inner"></div>
+</div>
+</body>
+</html>

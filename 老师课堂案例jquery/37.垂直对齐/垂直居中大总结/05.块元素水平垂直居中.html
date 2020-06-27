@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #wrap {
+            width: 500px;
+            height: 500px;
+            background: grey;
+            position: relative;
+        }
+        /*必须设置宽高   不然盒子的大小为因为定位而发生变化*/
+        #inner{
+            /*width: 200px;*/
+            /*height: 200px;*/
+            background: greenyellow;
+            /*当元素绝对定位后没有设置宽高并且 四个方向的值都设置成0时   他就会铺满整个容器
+                四周方向不一定要设置成0这个值 并且也不一定需要相同
+            */
+            position: absolute;
+            left:20px;
+            top:20px;
+            right: 20px;
+            bottom: 20px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="wrap">
+    <div id="inner">inner</div>
+</div>
+</body>
+
+</html>

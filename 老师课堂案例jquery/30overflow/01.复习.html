@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            height: 2000px;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        #box {
+            width: 200px;
+            height: 200px;
+            background: deeppink;
+            /*溢出隐藏    子元素浮动的情况下，能解决高度塌陷？ 可以  BFC */
+            /*
+               *BFC:块级格式化上下文     页面如何渲染
+               *IE：haslayout  页面如何渲染
+               *浮动元素为什么会高度塌陷   提升了层级   BFC
+               overflow: hidden  可以开启BFC  来控制我的内容如何渲染
+            */
+            overflow: hidden;
+            /*溢出时自动选择解决方式*/
+            /*overflow: auto;*/
+            /*不管内容是否溢出 都显示滚动条*/
+            overflow: scroll;
+        }
+        #inner{
+            width: 150px;
+            height: 100px;
+            background: greenyellow;
+        }
+    </style>
+</head>
+<body>
+
+<div id="box">
+    <div id="inner">inner</div>
+</div>
+
+</body>
+<script type="text/javascript">
+    window.onload = function () {
+        var box = document.getElementById('box');
+
+
+    }
+</script>
+</html>

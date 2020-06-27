@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        /*
+        浮动元素的特点：
+            1.浮动元素永远都在父元素里面浮动
+            2.浮动元素永远不能超过前边兄弟元素
+            3.浮动本质：文字环绕浮动元素
+        */
+        /*
+        元素与元素重合：position: absolute;
+        */
+        div{
+            width: 200px;
+            height: 200px;
+        }
+        #box{
+            background: pink;
+        }
+        #box2{
+            background: yellowgreen;
+            /*初始包含块 如果你的祖先元素当中都没有开启定位的元素   就是相对于初始包含块定位*/
+            /*position: absolute;*/
+            /*position: relative;*/
+            /*top:-200px;*/
+            /*文字环绕图片*/
+            /*float: left;*/
+            /* 负外边距的使用*/
+            margin-top: -200px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="box">box</div>
+<div id="box2"></div>
+
+</body>
+<script type="text/javascript">
+</script>
+</html>

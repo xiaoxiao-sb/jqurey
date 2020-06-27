@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<!--制作模板-->
+	</head>
+	<body>
+		<div id="box"></div>
+		<!--创建模板-->
+		<script type="text/html" id="art01">
+			<!--简介语法-->
+			{{if sex}}
+			<h2>{{name}}</h2>
+			<ul>
+				{{each song as value index}}
+				<li>{{value}}-------{{index}}</li>
+				{{/each}}
+			</ul>
+			{{/if}}
+		</script>
+		<script src="js/template.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+		  var date = {
+		      'name':'周杰伦',
+			  'age':41,
+			  'song':['双节棍','说好的幸福呢','告白气球'],
+			  'sex':true
+		  }
+//			关联模板和数据
+			var dateStr = template('art01',date);
+		  console.log(dateStr);
+		  $('#box').html(dateStr)
+		</script>
+	</body>
+</html>

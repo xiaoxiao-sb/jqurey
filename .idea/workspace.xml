@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a221b56-5dd3-492d-b40b-bda1158fbb65" name="Default" comment="" />
+    <ignored path="jQueryTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jQueryTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/19_事件_面试题.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1500" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/20_事件委托1_引入.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-689" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/20_事件委托2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-450" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/22_滑动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-750" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/23_显示与隐藏.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1200" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/24_自定义动画.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-750" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/25_扩展插件.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1650" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/26_多库共存.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-614" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prepare/测试/27_onload与ready.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-814" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/老师课堂案例jquery/29-margin和padding参照物.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work/插件/jqueryUI/jQueryUI_test/test.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习4_京东商品详情界面/jd_detail.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习4_京东商品详情界面/js/jd2.js" />
+        <option value="$PROJECT_DIR$/work/测试/js/myLib.js" />
+        <option value="$PROJECT_DIR$/work/测试/js/my_jQuery_plugin.js" />
+        <option value="$PROJECT_DIR$/work/测试/03_jQuery核心函数.html" />
+        <option value="$PROJECT_DIR$/work/测试/04_jQuery对象.html" />
+        <option value="$PROJECT_DIR$/work/测试/05_基本选择器.html" />
+        <option value="$PROJECT_DIR$/work/测试/06_层次选择器.html" />
+        <option value="$PROJECT_DIR$/work/测试/07_过滤选择器.html" />
+        <option value="$PROJECT_DIR$/work/测试/08_表单选择器.html" />
+        <option value="$PROJECT_DIR$/work/测试/09_$工具方法.html" />
+        <option value="$PROJECT_DIR$/work/测试/10_属性.html" />
+        <option value="$PROJECT_DIR$/work/测试/11_css.html" />
+        <option value="$PROJECT_DIR$/work/测试/12_offset和position.html" />
+        <option value="$PROJECT_DIR$/work/测试/13_元素滚动.html" />
+        <option value="$PROJECT_DIR$/work/测试/14_元素的尺寸.html" />
+        <option value="$PROJECT_DIR$/work/测试/15_筛选_过滤.html" />
+        <option value="$PROJECT_DIR$/work/测试/16_筛选_查找孩子-父母-兄弟标签.html" />
+        <option value="$PROJECT_DIR$/work/测试/17_文档_增删改.html" />
+        <option value="$PROJECT_DIR$/work/测试/18_事件绑定与解绑.html" />
+        <option value="$PROJECT_DIR$/work/测试/19_事件_面试题.html" />
+        <option value="$PROJECT_DIR$/work/测试/20_事件委托1_引入.html" />
+        <option value="$PROJECT_DIR$/work/测试/20_事件委托2.html" />
+        <option value="$PROJECT_DIR$/work/测试/21_淡入淡出.html" />
+        <option value="$PROJECT_DIR$/work/测试/22_滑动.html" />
+        <option value="$PROJECT_DIR$/work/测试/23_显示与隐藏.html" />
+        <option value="$PROJECT_DIR$/work/测试/24_自定义动画.html" />
+        <option value="$PROJECT_DIR$/work/测试/25_扩展插件.html" />
+        <option value="$PROJECT_DIR$/work/测试/26_多库共存.html" />
+        <option value="$PROJECT_DIR$/work/测试/27_onload与ready.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习1_爱好选择器/练习1_爱好选择器_jQuery.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习2_添加删除记录/练习2_添加删除记录_jQuery.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习3_轮播图/练习3_轮播图_jQuery.html" />
+        <option value="$PROJECT_DIR$/work/练习/练习4_京东商品详情界面/js/jd.js" />
+        <option value="$PROJECT_DIR$/work/测试/01_初识jQuery.html" />
+        <option value="$PROJECT_DIR$/work/测试/02_jQuery的2把利器.html" />
+        <option value="$PROJECT_DIR$/prepare/测试/01_初识jQuery.html" />
+        <option value="$PROJECT_DIR$/prepare/测试/03_jQuery核心函数.html" />
+        <option value="$PROJECT_DIR$/prepare/测试/14_元素的尺寸.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQueryTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQueryTest" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="测试" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="D:/HTML5杨文波" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Q\Desktop\jQueryTest\prepare\测试\js" />
+      <recent name="C:\Users\qiuhaifeng\Desktop\jQuery\jQueryTest\work\插件\jqueryUI\jQueryUI_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a221b56-5dd3-492d-b40b-bda1158fbb65" name="Default" comment="" />
+      <created>1502238910189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502238910189</updated>
+      <workItem from="1502238911857" duration="11263000" />
+      <workItem from="1502258323129" duration="1258000" />
+      <workItem from="1502262606118" duration="4400000" />
+      <workItem from="1502267716900" duration="932000" />
+      <workItem from="1502373912990" duration="2679000" />
+      <workItem from="1502411402593" duration="7149000" />
+      <workItem from="1502418747188" duration="10098000" />
+      <workItem from="1509523670861" duration="4416000" />
+      <workItem from="1509532282538" duration="243000" />
+      <workItem from="1510243048372" duration="36000" />
+      <workItem from="1510243092271" duration="208000" />
+      <workItem from="1510243399268" duration="365000" />
+      <workItem from="1515112789601" duration="3574000" />
+      <workItem from="1542357571648" duration="104000" />
+      <workItem from="1543310341975" duration="588000" />
+      <workItem from="1555600513560" duration="173000" />
+      <workItem from="1555636461054" duration="4519000" />
+      <workItem from="1557644748407" duration="441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work/测试/18_事件绑定与解绑.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/19_事件_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/20_事件委托1_引入.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/20_事件委托2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/21_淡入淡出.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/22_滑动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/23_显示与隐藏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/24_自定义动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/25_扩展插件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/26_多库共存.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/27_onload与ready.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/练习/练习1_爱好选择器/练习1_爱好选择器_jQuery.html" />
+    <entry file="file://$PROJECT_DIR$/work/练习/练习2_添加删除记录/练习2_添加删除记录_jQuery.html" />
+    <entry file="file://$PROJECT_DIR$/work/练习/练习3_轮播图/练习3_轮播图_jQuery.html" />
+    <entry file="file://$PROJECT_DIR$/work/练习/练习4_京东商品详情界面/js/jd.js" />
+    <entry file="file://$PROJECT_DIR$/work/测试/js/jquery-1.10.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="286" selection-start-line="3" selection-start-column="286" selection-end-line="3" selection-end-column="286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/02_jQuery的2把利器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/js/jquery-1.10.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="9795" column="51" selection-start-line="9795" selection-start-column="51" selection-end-line="9795" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/01_初识jQuery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/04_jQuery对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/测试/03_jQuery核心函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/练习/练习3_轮播图/练习3_轮播图_jQuery.html" />
+    <entry file="file://$PROJECT_DIR$/prepare/测试/05_基本选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/06_层次选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/07_过滤选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="3" column="31549" lean-forward="true" selection-start-line="3" selection-start-column="31549" selection-end-line="3" selection-end-column="31549" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/js/jquery-1.10.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/01_初识jQuery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/02_jQuery的2把利器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/03_jQuery核心函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/04_jQuery对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/09_$工具方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/10_属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/11_css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/12_offset和position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/13_元素滚动.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/14_元素的尺寸.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/15_筛选_过滤.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/16_筛选_查找孩子-父母-兄弟标签.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/17_文档_增删改.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/18_事件绑定与解绑.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/19_事件_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/20_事件委托1_引入.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/20_事件委托2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/22_滑动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/23_显示与隐藏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/24_自定义动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/25_扩展插件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/26_多库共存.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepare/测试/27_onload与ready.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/老师课堂案例jquery/29-margin和padding参照物.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+  </component>
+</project>
